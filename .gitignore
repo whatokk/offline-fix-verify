@@ -1,0 +1,20 @@
+# 隐私数据（不上传）
+data/
+data/简历库/
+data/输出/
+
+# 运行产物
+*.log
+*.tmp
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+.cache/
+node_modules/
+
+# 环境与密钥
+.env
+.env.*
+*.key
+credentials.json
